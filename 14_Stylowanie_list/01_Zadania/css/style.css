@@ -13,3 +13,6 @@ hr {
 .title {
   color: crimson;
 }
+.books {
+  list-style: decimal;
+}
